@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Bailey Evanger
-## A passionate software engineer from Washington, currently living in Utah.
+## Hi there 👋, I'm Bailey Evanger
+### A passionate software engineer from Washington, currently living in Utah.
 
 
 - 🌱 I’m currently learning: Full Stack Web Development
