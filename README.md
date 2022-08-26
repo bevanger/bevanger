@@ -1,9 +1,8 @@
-## Hi there 👋, I'm Bailey Evanger
+## Hi there 👋, I'm Grayson Evanger
 ### A passionate software engineer from Washington, currently living in Utah.
 
 
 - 🌱 I’m currently learning: Full Stack Web Development
-- 📫 How to reach me: baileyevanger45@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have three pet rabbits 🐰
 
