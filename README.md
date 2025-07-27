@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Grayson Evanger
-### A passionate software engineer from Washington, currently living in Oregon.
+### A passionate software engineer in the Pacific North West. 
 
-
-- 🌱 I’m currently learning: Full Stack Web Development
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have two pet rabbits 🐰
+- 💻 Looking for work: Fraud Analyst
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I love to craft 🧶 and create art 🎨
 
